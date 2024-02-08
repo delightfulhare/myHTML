@@ -8,6 +8,24 @@
     font-family: Helvetica;
     font-size: 20px;
 }
+/* Button */
+#link {
+    display: inline-block;
+    font-family: Helvetica;
+    text-transform: uppercase;
+    border: 2px solid white;
+    background-color: white;
+    color: blue;
+    padding: 15px 25px;
+    border-radius: 0;
+    font-size: 13px;
+    transition: all 0.5s;
+}
+#link:hover {
+    background-color: blue;
+    color: #fff;
+}
+
 /* Grid styles */
 .grid-container {
     display: inline-grid;
