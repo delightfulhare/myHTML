@@ -5,3 +5,12 @@
     font-family: Helvetica;
     font-size: 20px;
 }
+.grid-container {
+    display: inline-grid;
+    column-gap: 20px;
+    row-gap: 20px;
+}
+.grid-item {
+    width: 75px;
+    height: 75px;
+}
