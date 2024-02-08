@@ -1,3 +1,4 @@
+/* H1 and P styles */
 .h1 {
     width: 540px;
     height: 150px;
@@ -7,6 +8,7 @@
     font-family: Helvetica;
     font-size: 20px;
 }
+/* Grid styles */
 .grid-container {
     display: inline-grid;
     column-gap: 20px;
