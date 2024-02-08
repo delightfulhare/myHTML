@@ -1,4 +1,6 @@
 .h1 {
+    width: 540px;
+    height: 150px;
     color: blue;
 }
 .paragraph {
