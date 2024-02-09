@@ -1,5 +1,8 @@
 * {
-    padding: 10px, 10px;
+    position: absolute;
+}
+body {
+    padding: 15px, 25px;
 }
 /* H1 and P styles */
 .h1 {
@@ -34,7 +37,6 @@
     display: inline-grid;
     column-gap: 20px;
     row-gap: 20px;
-    border: 5px solid blue;
 }
 .grid-item {
     display: inline-block;
