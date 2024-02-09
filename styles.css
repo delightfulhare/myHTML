@@ -3,7 +3,8 @@
     width: 540px;
     height: 150px;
     color: blue;
-    text-align: center;
+    top: 30px;
+    left: 100px;
 }
 .paragraph {
     font-family: Helvetica;
