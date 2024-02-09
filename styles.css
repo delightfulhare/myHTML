@@ -1,5 +1,6 @@
 /* H1 and P styles */
 .h1 {
+    padding: 15px, 25px;
     color: blue;
     top: 30px;
     left: 100px;
