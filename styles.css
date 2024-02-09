@@ -33,6 +33,7 @@
     row-gap: 20px;
 }
 .grid-item {
+    display: inline-block;
     width: 75px;
     height: 75px;
 }
