@@ -6,11 +6,14 @@ body {
 }
 /* H1 and P styles */
 .h1 {
+    text-align: center;
+	justify-content: center;
     padding: 15px, 25px;
     color: rgb(13, 162, 189);
 }
 .paragraph {
-    right: 50%;
+    position: relative;
+	text-align: center;
     font-family: Helvetica;
     font-size: 20px;
 }
@@ -28,7 +31,7 @@ body {
     transition: all 0.5s;
 }
 #link:hover {
-    background-color: blue;
+    background-color: rgb(13, 162, 189);
     color: #fff;
 }
 
